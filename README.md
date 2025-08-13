@@ -25,7 +25,4 @@ This project focuses on understanding the user experience across different stage
 ## Outcome
 Proposed improvements expected to reduce checkout abandonment rate by 15–20% and enhance overall user experience.
 
----
 
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile Link]
